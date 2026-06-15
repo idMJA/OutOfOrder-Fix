@@ -25,7 +25,7 @@ This causes players to be disconnected and experience a "Connection Timed Out" e
 * **Minecraft / Server:** Paper / Purpur 26.1.2 and up (26.1.2+)
 
 ## Installation
-1. Download the latest `OutOfOrderFix-1.0-SNAPSHOT.jar`.
+1. Download the latest `OutOfOrderFix.jar`.
 2. Place the JAR file inside your server's `plugins/` directory.
 3. Start or restart your server (or run `/reload confirm`).
 4. Upon successful load, you will see the following message in the console:
