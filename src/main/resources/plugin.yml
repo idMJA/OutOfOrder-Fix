@@ -1,0 +1,6 @@
+name: OutOfOrderFix
+version: '${version}'
+main: moe.mja.outOfOrderFix.OutOfOrderFix
+api-version: '1.20'
+description: Fixes keepalive out-of-order kicks for Bedrock and mobile players.
+author: MJ
